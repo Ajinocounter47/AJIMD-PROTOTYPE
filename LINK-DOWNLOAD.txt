@@ -1,0 +1,15 @@
+sebelumnya minta maaf karena ada kesalahan teknis pada saat mengupload file 
+wa bot nya di github karena size nya kena limit (File Asli 125MB sedangkan limit 25MB)
+jadi untuk filenya dipindahkan ke link download mediafire
+
+link download
+https://www.mediafire.com/file/fuo5dszouu8p3d1/WABOT-AJIMD.rar/file
+
+Thanks to
+-Adiwajshing (Owner of Baileys)
+-Aqul (My Inspiration)
+-Febb (Best Partner)
+-Xfar (Owner of X-Far api)
+-HEXA (Owner of Hxz-api)
+-KOTZ (Owner of Kotz-api)
+-Rayy (Owner of Ra-api)
