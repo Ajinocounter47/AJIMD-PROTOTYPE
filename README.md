@@ -2,7 +2,7 @@
 # WhatsApp Bot with Baileys 
 ###### Apa itu Bot? Bot adalah istilah umum yang digunakan untuk merujuk pada program komputer yang dirancang untuk melakukan tugas-tugas tertentu secara otomatis atau dalam respons terhadap input tertentu. Bots dapat dikembangkan untuk berbagai tujuan, termasuk dalam konteks kecerdasan buatan.
 
-#GITBASH
+# GITBASH
 ```
 cd (file bot)
 npm install
